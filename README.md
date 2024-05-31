@@ -1,17 +1,19 @@
 # Hi there, I'm [Your Name] 👋
 
-![Web Developer](https://your-banner-url.com)
+![Web Developer](https://github.com/shann592/assets/blob/main/github-header-image.png)
 
 I'm a passionate web developer with a strong background in Node.js, Express, Tailwind CSS, React, Firebase, and MongoDB. I love creating modern, responsive web applications and always strive to learn and grow as a developer.
 
 ## 🛠️ Technologies & Tools
 
 - **Frontend:**
+
   - HTML, CSS, JavaScript
   - React.js
   - Tailwind CSS
 
 - **Backend:**
+
   - Node.js
   - Express.js
   - MongoDB
@@ -31,7 +33,7 @@ Check out my portfolio: [shann-portfolio-site.netlify.app](https://shann-portfol
 
 ## 📫 How to reach me
 
-- **Email:** your.email@example.com
+- **Email:** shannformal323@gmail.com
 - **LinkedIn:** [linkedin.com/in/shannformal/](https://www.linkedin.com/in/shannformal/)
 - **Twitter:** [@shannformal323](https://x.com/shannformal323)
 
