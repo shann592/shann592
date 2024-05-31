@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Shantanu Singh 👋
 
 ![Web Developer](https://github.com/shann592/assets/blob/main/github-header-image.png)
 
